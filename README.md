@@ -73,9 +73,9 @@ Setelah pengguna menerapkan perbaikan, sistem dapat melakukan pengujian ulang un
 
 ## Teknologi yang Digunakan
 
-* Next.js
+* Vue.js (Frontend)
+* Laravel (Backend)
 * TypeScript
-* Node.js
 * TestSprite CLI
 * OpenAI API
 * PostgreSQL
